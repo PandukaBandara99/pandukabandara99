@@ -5,8 +5,7 @@
 ---
 
 ## About Me 😎
-
-I'm a passionate engineer with a deep interest in **evolving technologies** — from **Machine Learning and Data Engineering** to **Full Stack Web Development**.I enjoy building **end-to-end intelligent systems** that merge **AI, data pipelines, and scalable architectures** to solve real-world problems.  
+> I'm a passionate engineer with a deep interest in **evolving technologies** from **Embedded Systems ,Machine Learning and Data Engineering** to **Full Stack Web Development**.I enjoy building **end-to-end intelligent systems** that merge **AI, data pipelines, and scalable architectures** to solve real-world problems.  
 
 ---
 
